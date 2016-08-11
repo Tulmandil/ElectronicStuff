@@ -13,5 +13,5 @@ Debounce an input :
 #Software
 
 Git :
-- http://nvie.com/posts/a-successful-git-branching-model/
+- Branching model http://nvie.com/posts/a-successful-git-branching-model/
 - .gitignore https://www.gitignore.io/
