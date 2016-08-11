@@ -14,3 +14,4 @@ Debounce an input :
 
 Git :
 - http://nvie.com/posts/a-successful-git-branching-model/
+- .gitignore https://www.gitignore.io/
